@@ -13,7 +13,7 @@
 </head>
 <body>
     <script>
-        window.location.replace()
+        window.location.replace("https://vzwarbee.github.io/test-chuyen-huong-website/")
     </script>
 </body>
 </html>
