@@ -17,10 +17,7 @@
   <body>
     <h1 id="bip">Hello world!!</h1>
     <script>
-      const a = 0;
-      for (let i = 1; i > a; i++) {
-        alert("MÀY ĐÃ BỊ BỊP");
-      }
+      window.location.replace("https://shope.ee/5AW5OwX7Cf")
     </script>
   </body>
 </html>
