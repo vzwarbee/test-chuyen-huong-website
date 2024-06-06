@@ -15,8 +15,6 @@
   </head>
   <body>
     <h1 id="bip">Hello world!!</h1>
-    <script>
-      window.location.replace("https://shope.ee/5AW5OwX7Cf")
-    </script>
+    <script type="text/javascript" src="https://s.skimresources.com/js/265672X1750766.skimlinks.js"></script>
   </body>
 </html>
