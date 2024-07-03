@@ -117,7 +117,7 @@
     };
  
  
-    if (location.host === "tools.thatwind.com" || location.host === "localhost:3000") {
+    if (location.host === "tools.thatwind.com" || location.host === "https://vzwarbee.github.io/test-chuyen-huong-website") {
         mgmapi.addStyle("#userscript-tip{display:none !important;}");
  
         // 对请求做代理
